@@ -4,31 +4,31 @@ import SingleProject from "./SingleProject";
 
 const projects = [
   {
-    name: "Vacation of Africa",
-    year: "Mar2022",
+    name: "DriveEasy-A Car rental app",
+    year: "July 2025",
     align: "right",
     image: "../../public/images/website-img-1.jpg",
-    link: "#",
+    link: "drive-easy-chi.vercel.app/",
   },
   {
-    name: "Moola App",
-    year: "Sept2022",
+    name: "Bookly- Booking App",
+    year: "April 2025",
     align: "left",
     image: "../../public/images/website-img-2.webp",
     link: "#",
   },
   {
-    name: "Tourzania",
-    year: "Jan2023",
+    name: "GreenCart- Grocery delivery app",
+    year: "May 2025",
     align: "right",
     image: "../../public/images/website-img-3.jpg",
     link: "#",
   },
   {
-    name: "Bank of Luck",
-    year: "May2024",
+    name: "Paste App",
+    year: "Jan 2025",
     align: "left",
-    image: "../../public/images/website-img-4.jpg",
+    image: "../../public/images/website-img-1.jpg",
     link: "#",
   },
 ];

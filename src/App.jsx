@@ -24,8 +24,6 @@ const App = () => {
       <ExperienceMain/>
       <ProjectsMain/>
       <ContactMeMain/>
-
-      <HelperSection/>
     </main>
   )
 }
